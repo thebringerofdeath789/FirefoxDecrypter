@@ -1,0 +1,1 @@
+Finds the Firefox installation and uses its nss library to decrypt the stored passwords in Firefox v140. Also locates the profiles and prompts for the password if there is one. Written by Gregory King
